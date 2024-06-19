@@ -1,0 +1,8 @@
+Este es un fichero más largo que el anterior.\n
+Contiene más de 100 líneas de texto.
+Aquí tienes un ejemplo de texto:
+Esto es un párrafo de texto.
+El párrafo contiene varias oraciones.
+Las oraciones están separadas por puntos.
+Aquí tienes otro ejemplo de texto:
+Esta es una lista de elementos.
