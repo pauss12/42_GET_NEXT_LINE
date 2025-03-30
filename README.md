@@ -32,17 +32,17 @@ Este proyecto tiene como objetivo implementar una función en C llamada `get_nex
 
 	2.1. ***Compilar sin bonus***
 
-		```bash
-		cd Sin bonus
-		gcc get_next_line_utils.c get_next_line.c main.c
-		```
+	```bash
+	cd Sin bonus
+	gcc get_next_line_utils.c get_next_line.c main.c
+	```
 
 	2.2. ***Compilar con bonus***
 
 	```bash
 	cd Bonus
-    gcc get_next_line_utils_bonus.c get_next_line_bonus.c main.c
-    ```
+ 	gcc get_next_line_utils_bonus.c get_next_line_bonus.c main.c
+   	 ```
 
 3. **Ejecución**
 
